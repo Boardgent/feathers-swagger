@@ -101,6 +101,7 @@ declare namespace feathersSwagger {
     } & UnknownObject;
     openApiVersion?: 2 | 3;
     docsPath?: string;
+    docsVersionPath?: string;
     docsJsonPath?: string;
     uiIndex?: boolean | string | UiIndexFn;
     idType?: 'string' | 'integer';
