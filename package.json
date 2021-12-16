@@ -1,8 +1,8 @@
 {
-  "name": "feathers-swagger",
+  "name": "@boardgent/feathers-swagger",
   "description": "Add documentation to your Featherjs services and feed them to Swagger UI.",
   "version": "1.2.1",
-  "homepage": "https://github.com/feathersjs-ecosystem/feathers-swagger",
+  "homepage": "https://github.com/Boardgent/feathers-swagger",
   "main": "lib/",
   "keywords": [
     "feathers",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feathersjs-ecosystem/feathers-swagger.git"
+    "url": "git://github.com/Boardgent/feathers-swagger.git"
   },
   "author": {
     "name": "Feathers contributors",
@@ -20,7 +20,7 @@
   },
   "contributors": [],
   "bugs": {
-    "url": "https://github.com/feathersjs-ecosystem/feathers-swagger/issues"
+    "url": "https://github.com/Boardgent/feathers-swagger/issues"
   },
   "engines": {
     "node": ">= 6"
